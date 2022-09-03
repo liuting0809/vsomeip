@@ -1,5 +1,6 @@
 ### vsomeip
 
+
 ##### Copyright
 Copyright (C) 2015-2017, Bayerische Motoren Werke Aktiengesellschaft (BMW AG)
 
